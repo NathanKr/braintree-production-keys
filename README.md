@@ -13,7 +13,7 @@ getting braintree sandox keys and merchant id is easy , but getting them for liv
 
 <h2>Key Takeaways</h2>
 <ul>
-    <li>...</li>
+    <li>going live on braintree require approval from their team</li>
    
 </ul>
 
