@@ -22,7 +22,13 @@ go live \ get production account
 
 <img src='./figs/get-production-account.png'/>
 
-click <a href='https://www.paypal.com/us/business/contact-sales?utm_campaign=Braintree_Migration&utm_medium=Website&utm_source=Braintree'>get in touch with our sales team</a> and you will need to fill the form <img src='./figs/get-in-touch.png'/> and submit which i did 10-11-25 at about 10AM and i wait for answer
+click <a href='https://www.paypal.com/us/business/contact-sales?utm_campaign=Braintree_Migration&utm_medium=Website&utm_source=Braintree'>get in touch with our sales team</a> and you will need to fill the form <img src='./figs/get-in-touch.png'/> and submit which i did 10-nov-25 at about 10AM and i wait for answer =>did not get any and page had error 
+
+
+try again in 13-11-25 , filled the contact form and now it was success
+
+
+<img src='./figs/success-contact-sails.png'/>
 
 
 
