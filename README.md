@@ -49,6 +49,9 @@ Here is the screenshot of the Perplexity AI summary that supports these findings
 
 ## Installation / Attempt to Go Live
 
+The following sections document the various paths I tried to obtain production credentials. Each path either led to a dead end, an
+unresponsive contact form, or a redirect away from Braintree. This shows the circular maze developers encounter when trying to go live.
+
 ### 1. Go Live / Get Production Account
 Here is the “Get Production Account” section as shown on the Braintree site:
 
